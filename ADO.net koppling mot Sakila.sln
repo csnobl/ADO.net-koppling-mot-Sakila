@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.net koppling mot Sakila", "ADO.net koppling mot Sakila\ADO.net koppling mot Sakila.csproj", "{188A750A-CE42-4805-A034-BC4C0BA277CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188A750A-CE42-4805-A034-BC4C0BA277CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188A750A-CE42-4805-A034-BC4C0BA277CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188A750A-CE42-4805-A034-BC4C0BA277CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188A750A-CE42-4805-A034-BC4C0BA277CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F9A5A5-7E31-416A-AD3D-AD4133300AF8}
+	EndGlobalSection
+EndGlobal
