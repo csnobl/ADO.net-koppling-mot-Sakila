@@ -32,17 +32,13 @@ namespace ADO.net_koppling_mot_Sakila
             {
                 while (rec.Read())
                 {
-
                     Console.Write(rec["title"]);
                     Console.Write("\t" + rec["first_name"]);
                     Console.Write("\t" + rec["last_name"] + "\n");
                 }
             }
 
-
-
             connection.Close();
-
         }
     }
 }
